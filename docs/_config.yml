@@ -23,7 +23,7 @@ email: info@opencxt.com
 logo: /assets/images/logo.png
 description: >- # this means to ignore newlines until "baseurl:"
   OpenCXT: The Open Source CX Company
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://opencxt.com" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
