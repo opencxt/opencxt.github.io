@@ -2,8 +2,24 @@
 layout: default
 ---
 
-Do you want to be the leading force of AI adoption at your organization? We are here to help you! Together with OpenCXT you can revolutionize your customer experience, with a cloud-based solution crafted by industry veterans.
+OpenCXT™ for Global Telecommunications Testing and Monitoring
 
-Our cutting-edge AI proactively automates CX testing and troubleshooting, ensuring issues are resolved swiftly - often before users even notice them. Our AI-driven platform excels in comprehensively covering all CX facets: from IVR testing and voice calls to SMS, email, chat, and web conferencing.
+OpenCXT Phone is our first product, and it empowers your organization to understand the health of your call centers and toll free numbers simply and completely. We can dial from most countries today, and we are expanding our testing network quickly.
 
-Do you want to lead the transformation to AI? We will help you deliver insights and efficiency with our unique features, and we will elevate your customer service to new heights. Are you ready? Contact us today and lead your organization into the AI era: [info@opencxt.com](mailto:info@opencxt.com)
+OpenCXT Phone empowers your organization to know if your numbers are answering the phone:
+
+- when they should
+- quickly(PDD)
+- with good voice quality
+- with the correct voice script and IVR menus
+
+![](assets/images/sample_graph.png)
+Sample graph from our platform: yellow idicates busy line, red carrier issue
+
+OpenCXT Phone gives you a simple and complete picture of the health of your call centers and toll free numbers across the globe. Our key differentiators are:
+
+- We offer a red carpet service. You can call the private number of your account manager at 2am, and we will be happy to support you
+- We go all the extra miles for you. When the voice quality is poor, our AI will tell you what is probably wrong. Want to know how your call center is answering the phone? We give you a transcript of every call. Want something else? Yes, we can!
+- Tired of the monopoly feeling of the legacy CX testing companies? We offer a great service, a great product, and a very, very competitive price. Check us out.
+
+Do you already have a CX testing contract with another company? Do you want a better service? Do you want a better product? Do you want to cut costs? Send us an email and we will show you how different we are: [info@opencxt.com](mailto:info@opencxt.com).
